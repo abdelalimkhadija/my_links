@@ -1,2 +1,2 @@
 ## React Porfolio
-[to my potfolio](www.google.com)
+[to my potfolio](https://www.google.com)
